@@ -20,5 +20,3 @@ SplitText.create(".about-text",{
         }
     }
 })
-
-console.log("Hello there");
